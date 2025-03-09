@@ -41,7 +41,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: personality.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits
