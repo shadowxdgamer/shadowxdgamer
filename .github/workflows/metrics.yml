@@ -41,5 +41,8 @@ jobs:
           filename: anilist.svg
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading  # Display anime and manga stats
+          plugin_anilist_sections: favorites, watching, reading,characters  # Display anime and manga stats
+          plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 22
+
           
