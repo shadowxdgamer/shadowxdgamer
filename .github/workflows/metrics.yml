@@ -40,7 +40,6 @@ jobs:
 
           filename: anilist.svg
           plugin_anilist: yes
-          plugin_anilist_username: shadowxdgamer  # Replace with your MyAnimeList username
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading  # Display anime and manga stats
           
