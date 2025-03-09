@@ -32,13 +32,13 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: mastered
 
-  coding-streak:
+  mbti-personality:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Coding Streak & Commit Calendar (Right Side)
+      - name: Generate MBTI Personality (Right Side)
         uses: lowlighter/metrics@latest
         with:
-          filename: MBTI Personality profile
+          filename: personality.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
