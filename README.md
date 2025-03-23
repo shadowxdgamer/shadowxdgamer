@@ -10,6 +10,8 @@ Welcome to my GitHub profile :D
 <!-- Display the metrics.svg file -->
   <img align="left" width="45%" src="metrics.svg" alt="GitHub Metrics">
   <img align="right" width="45%" src="anilist.svg" alt="Anime Metrics">
+  
+  <br clear="both">
 
 ## Portfolio Page
 
