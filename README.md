@@ -1,9 +1,19 @@
 # Hi, I'm shadowxdgamer 👋
 
 <div align="center">
-  <span style="font-size: 1.5em; font-weight: bold;">Welcome to my GitHub profile :D</span>
-  <!-- Insert a cool GIF here -->
-  <img src="gifs/soloLeveling.gif" width="220px" alt="Cool GIF">
+  <table>
+    <tr>
+      <td align="center">
+        <span style="font-size: 1.5em; font-weight: bold;">Welcome to my GitHub profile :D</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <!-- Insert a cool GIF here -->
+        <img src="gifs/soloLeveling.gif" width="220px" alt="Cool GIF">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## GitHub Metrics
