@@ -1,9 +1,10 @@
 # Hi, I'm shadowxdgamer 👋
 
-<center>Welcome to my GitHub profile :D</center>
-
-<!-- Insert a cool GIF here -->
-<img src="gifs/soloLeveling.gif" width="220px" align="center" alt="Cool GIF">
+<div align="center">
+  <p>Welcome to my GitHub profile :D</p>
+  <!-- Insert a cool GIF here -->
+  <img src="gifs/soloLeveling.gif" width="220px" alt="Cool GIF">
+</div>
 
 ## GitHub Metrics
 
