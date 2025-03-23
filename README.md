@@ -1,7 +1,7 @@
 # Hi, I'm shadowxdgamer 👋
 
 <div align="center">
-  <table>
+  <table border=0>
     <tr>
       <td align="center">
         <span style="font-size: 1.5em; font-weight: bold;">Welcome to my GitHub profile :D</span>
