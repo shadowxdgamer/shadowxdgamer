@@ -1,7 +1,7 @@
 # Hi, I'm shadowxdgamer 👋
 
 <div align="center">
-  <p>**Welcome to my GitHub profile :D**</p>
+    <p><strong>Welcome to my GitHub profile :D</strong></p>
   <!-- Insert a cool GIF here -->
   <img src="gifs/soloLeveling.gif" width="220px" alt="Cool GIF">
 </div>
